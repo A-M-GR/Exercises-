@@ -11,7 +11,6 @@ using std::cout;
 
 ostream  &operator <<( ostream & os,Book & b1);
 
-
 int main()
 {
 
